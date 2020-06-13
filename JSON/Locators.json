@@ -1,0 +1,15 @@
+{
+	"LoginPage" :
+	    {
+			"profile_xpath" : "//span[.='Profile']",
+			"Login/SignUp_xpath" : "//a[.='login / Signup']",
+			"mobileno" : "//input[@autocomplete='new-password']",
+			"error_msg" : "//div[@class='errorContainer']",
+			"continue_btn" : "//div[.='CONTINUE']",
+			"Searchbox_xpath" : "//input[@placeholder='Search for products, brands and more']"
+	
+		
+		}
+	
+	
+}

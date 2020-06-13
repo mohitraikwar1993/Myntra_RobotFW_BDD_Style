@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keywordspec name="ReadLocator" type="LIBRARY" format="ROBOT" scope="GLOBAL" namedargs="true" generated="2020-06-02T19:48:26Z" specversion="2" source="..\..\..\eclipse-workspace\Myntra_RobotProject\Python_Utility\ReadLocator.py" lineno="1">
+<version></version>
+<scope>global</scope>
+<namedargs>yes</namedargs>
+<doc>Documentation for library ``ReadLocator``.</doc>
+<kw name="Get Locator Value" lineno="6">
+<arguments>
+<arg>element_path</arg>
+</arguments>
+<doc></doc>
+</kw>
+</keywordspec>
